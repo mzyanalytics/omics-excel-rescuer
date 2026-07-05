@@ -118,7 +118,7 @@ if verify_license(license_key):
 else:
     st.warning("?? Premium Core Disabled. License validation verification required.")
     st.markdown("### How to gain access:")
-    st.markdown("1. [?? Click here to access checkout link](https://your-lemon-squeezy-store-link)")
+    st.markdown("1. [?? Click here to access checkout link](https://omics-excel-rescuer.lemonsqueezy.com/checkout/buy/cba0b7d8-5a3f-4dd4-86ed-9358dda51059)")
     st.markdown("2. Complete purchase to generate your instant license key.")
     st.markdown("---")
     st.info("?? **Developer Notice:** Enter key DEV-PASS-2026 to bypass security for testing.")
