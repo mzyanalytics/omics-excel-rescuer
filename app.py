@@ -13,7 +13,7 @@ st.markdown("---")
 # 1. SIDEBAR CONFIGURATION & PAYWALL
 st.sidebar.header("?? Licensing & Configuration")
 license_key = st.sidebar.text_input("Premium License Key:", type="password")
-
+TARGET_VARIANT_ID =  1873129
 # Placeholder Store Setup (Change this to your actual Lemon Squeezy Store ID if needed)
 TARGET_STORE_ID = "12345" 
 
