@@ -1,0 +1,8 @@
+﻿streamlit
+polars
+openpyxl
+fastexcel
+xlsxwriter
+requests
+matplotlib
+seaborn
